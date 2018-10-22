@@ -3261,7 +3261,7 @@ Orandi Harris
 - [Steffen Hasse](https://github.com/Hazen91)
 - [Hyunwoo Kim](https://github.com/khw1031)
 - [Panagiotis Vourtsis](https://github.com/panvourtsis)
-- [Geoffrey Omondi](https://github.com/elducati)
+- [Geoffrey-Omondi](https://github.com/elducati)
 - [Johanne Andersen](https://github.com/JohanneA)
 - [Emre Yilmaz](https://github.com/emre-yilmaz)
 - [Ben Trybulski](https://github.com/btrybulski)
